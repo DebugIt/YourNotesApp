@@ -13,7 +13,7 @@ Functions:
 <br>
 <br>
 <br>
-YourNotes : https://debugit.github.io/YourNotesApp.github.io/
+YourNotes : https://bejewelled-gingersnap-0bbe0c.netlify.app/
 <br>
 <br>
 <br>
